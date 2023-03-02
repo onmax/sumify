@@ -1,5 +1,0 @@
----
-"sumify": patch
----
-
-Initial commit
