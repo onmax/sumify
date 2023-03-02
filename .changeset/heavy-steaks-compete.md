@@ -1,0 +1,5 @@
+---
+"sumify": patch
+---
+
+Added license
