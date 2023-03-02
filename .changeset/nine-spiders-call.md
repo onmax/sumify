@@ -1,5 +1,5 @@
 ---
-"briefly": patch
+"sumify": patch
 ---
 
 Initial commit
