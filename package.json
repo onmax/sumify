@@ -1,6 +1,6 @@
 {
     "name": "sumify",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Summarize youtube videos",
     "private": false,
     "main": "./dist/index.js",
